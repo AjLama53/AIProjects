@@ -32,7 +32,7 @@ This repository is based on [CS50's Introduction to Artificial Intelligence with
 ---
 
 ## 🚧 Work In Progress
-Some projects are still under development and will be added soon — stay tuned!
+Some projects are still being worked on and will be added soon
 
 ---
 
