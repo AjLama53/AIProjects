@@ -15,7 +15,7 @@ A collection of my solutions and implementations from Harvard's **renowned CS50 
 | **Minesweeper** | Builds an AI agent that uses **logical inference** and **probabilistic reasoning** to safely navigate a Minesweeper grid. |
 | **PageRank**  | Reimplements Google's **PageRank algorithm** using both sampling and iterative approaches to estimate page importance through link analysis. |
 | **Hereditary** | _Coming soon_ |
-| **Crossword** | _Coming soon_ |
+| **Crossword** | Solves a crossword via **constraint satisfaction**, enforcing node/arc consistency (**AC-3**) and using backtracking with **MRV**, **degree**, and **least-constraining value** heuristics. |
 
 ---
 
